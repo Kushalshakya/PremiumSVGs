@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <defs>
+        <linearGradient id="diskGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#555;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#333;stop-opacity:1" />
+        </linearGradient>
+        <pattern id="platterPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+            <circle cx="10" cy="10" r="5" fill="#ccc" />
+        </pattern>
+    </defs>
+    <rect x="25" y="50" width="150" height="100" rx="10" ry="10" fill="url(#diskGradient)" />
+    <rect x="25" y="50" width="75" height="100" rx="10" ry="10" fill="rgba(255, 255, 255, 0.1)" />
+    <rect x="25" y="45" width="150" height="5" rx="5" ry="5" fill="#444" />
+    <rect x="35" y="55" width="130" height="90" fill="#333" opacity="0.2" />
+    <line x1="30" y1="60" x2="170" y2="60" stroke="#555" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="30" y1="70" x2="170" y2="70" stroke="#555" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="30" y1="80" x2="170" y2="80" stroke="#555" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="30" y1="90" x2="170" y2="90" stroke="#555" stroke-width="1" stroke-dasharray="2,2" />
+    <circle cx="100" cy="100" r="40" fill="url(#platterPattern)" />
+    <circle cx="100" cy="100" r="30" fill="#ddd" />
+    <circle cx="100" cy="100" r="20" fill="#eee" />
+    <circle cx="100" cy="100" r="10" fill="#fff" />
+    <line x1="70" y1="100" x2="130" y2="100" stroke="#aaa" stroke-width="1" stroke-dasharray="1,1" />
+    <line x1="70" y1="110" x2="130" y2="110" stroke="#aaa" stroke-width="1" stroke-dasharray="1,1" />
+    <line x1="70" y1="120" x2="130" y2="120" stroke="#aaa" stroke-width="1" stroke-dasharray="1,1" />
+    <line x1="70" y1="130" x2="130" y2="130" stroke="#aaa" stroke-width="1" stroke-dasharray="1,1" />
+    <rect x="35" y="92" width="10" height="16" fill="#999" />
+    <rect x="45" y="100" width="10" height="4" fill="#999" />
+    <circle cx="50" cy="104" r="2" fill="#999" />
+    <line x1="100" y1="100" x2="50" y2="80" stroke="#33cc33" stroke-width="2" />
+    <line x1="100" y1="100" x2="150" y2="80" stroke="#33cc33" stroke-width="2" />
+    <polygon points="100,85 95,75 100,65 105,75" fill="#33cc33" />
+    <circle cx="100" cy="100" r="5" fill="#333" />
+    <circle cx="40" cy="60" r="2" fill="#ccc" />
+    <circle cx="160" cy="60" r="2" fill="#ccc" />
+    <circle cx="40" cy="140" r="2" fill="#ccc" />
+    <circle cx="160" cy="140" r="2" fill="#ccc" />
+    <rect x="35" y="47" width="130" height="3" rx="1" ry="1" fill="rgba(255, 255, 255, 0.3)" />
+    <circle cx="100" cy="100" r="40" fill="#fff" opacity="0.1" />
+    <text x="100" y="185" text-anchor="middle" fill="#fff" font-size="12" font-family="Arial">Hard Disk</text>
+</svg>

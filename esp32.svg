@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+    <rect x="30" y="40" width="140" height="120" rx="10" ry="10" fill="#3498db" />
+    <line x1="100" y1="20" x2="100" y2="40" stroke="#2c3e50" stroke-width="5" />
+    <rect x="45" y="155" width="20" height="10" fill="#ecf0f1" />
+    <rect x="75" y="155" width="20" height="10" fill="#ecf0f1" />
+    <rect x="105" y="155" width="20" height="10" fill="#ecf0f1" />
+    <circle cx="140" cy="80" r="8" fill="#ECECEC" />
+    <rect x="80" y="65" width="4" height="6" fill="#474747" />
+    <rect x="87" y="65" width="4" height="6" fill="#474747" />
+    <rect x="94" y="65" width="4" height="6" fill="#474747" />
+    <rect x="101" y="65" width="4" height="6" fill="#474747" />
+    <rect x="108" y="65" width="4" height="6" fill="#474747" />
+    <rect x="115" y="65" width="4" height="6" fill="#474747" />
+    <rect x="80" y="109" width="4" height="6" fill="#474747" />
+    <rect x="87" y="109" width="4" height="6" fill="#474747" />
+    <rect x="94" y="109" width="4" height="6" fill="#474747" />
+    <rect x="101" y="109" width="4" height="6" fill="#474747" />
+    <rect x="108" y="109" width="4" height="6" fill="#474747" />
+    <rect x="115" y="109" width="4" height="6" fill="#474747" />
+    <rect x="75" y="71" width="6" height="4" fill="#474747" />
+    <rect x="75" y="78" width="6" height="4" fill="#474747" />
+    <rect x="75" y="85" width="6" height="4" fill="#474747" />
+    <rect x="75" y="92" width="6" height="4" fill="#474747" />
+    <rect x="75" y="99" width="6" height="4" fill="#474747" />
+    <rect x="75" y="106" width="6" height="4" fill="#474747" />
+    <rect x="118" y="71" width="6" height="4" fill="#474747" />
+    <rect x="118" y="78" width="6" height="4" fill="#474747" />
+    <rect x="118" y="85" width="6" height="4" fill="#474747" />
+    <rect x="118" y="92" width="6" height="4" fill="#474747" />
+    <rect x="118" y="99" width="6" height="4" fill="#474747" />
+    <rect x="118" y="106" width="6" height="4" fill="#474747" />
+    <rect x="35" y="170" width="10" height="10" fill="#2c3e50" />
+    <rect x="155" y="170" width="10" height="10" fill="#2c3e50" />
+    <rect x="40" y="175" width="120" height="5" fill="#2c3e50" />
+    <rect x="80" y="70" width="40" height="40" fill="#333333" />
+    <text x="100" y="145" font-family="monospace" font-size="14" fill="#2c3e50" text-anchor="middle">ESP32</text>
+</svg>
